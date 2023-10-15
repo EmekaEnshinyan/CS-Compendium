@@ -31,6 +31,8 @@ navigate to/out of terminal             Alt+'
 
 --Bash & Configurations--
 
-open new terminal                       Ctrl+Shift+'
+open new terminal                       Alt+Shift+'
 
 select run configuration                Ctrl+Shift+P
+
+switch terminals                        Alt+Shift+'
